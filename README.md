@@ -3,7 +3,9 @@
 
 **Aluno:** Murilo Salla  
 **RM:** 568041  
-**Professor(a):** [Preencher com o nome]  
+## 👩‍🏫 Professores
+* Tutor(a): Ana Cristina dos Santos
+* Coordenador(a): André Godoi Chiovato
 
 ---
 
