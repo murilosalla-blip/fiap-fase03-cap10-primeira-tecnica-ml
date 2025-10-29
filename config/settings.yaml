@@ -1,0 +1,42 @@
+random_state: 42
+test_size: 0.2
+scale_features: true
+
+features:
+  - N
+  - P
+  - K
+  - temperature
+  - humidity
+  - pH
+  - rainfall
+
+target: label
+
+models:
+  - name: knn
+    type: KNeighborsClassifier
+    params:
+      n_neighbors: 7
+  - name: logreg
+    type: LogisticRegression
+    params:
+      max_iter: 1000
+      multi_class: auto
+  - name: decision_tree
+    type: DecisionTreeClassifier
+    params:
+      max_depth: 6
+  - name: random_forest
+    type: RandomForestClassifier
+    params:
+      n_estimators: 300
+      max_depth: 8
+      n_jobs: -1
+  - name: svm
+    type: SVC
+    params:
+      kernel: rbf
+      C: 2.0
+      gamma: scale
+      probability: true

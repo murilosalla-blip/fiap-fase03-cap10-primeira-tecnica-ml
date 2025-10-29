@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual env
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (keep out big/raw files)
+#*.csv
+*.tsv
+#*.xls
+#*.xlsx
+data/raw/
+!data/processed/*.parquet
+
+# Logs / artifacts
+logs/
+*.log
+
+# VSCode
+.vscode/
