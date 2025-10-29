@@ -1,6 +1,8 @@
 # FIAP - Fase 3 - Capítulo 10  
 ## A primeira técnica de aprendizado de máquina  
 
+## GitHub: https://github.com/murilosalla-blip/fiap-fase03-cap10-primeira-tecnica-ml
+
 **Aluno:** Murilo Salla  
 **RM:** 568041  
 ## 👩‍🏫 Professores
@@ -22,28 +24,19 @@ O objetivo é realizar a primeira experiência prática com **técnicas de apren
 
 ---
 
-## 📂 Estrutura de Pastas
-├── .github/
-│ └── .githubproblem-report.md
-├── assets/
-│ └── [gráficos e prints de evidências]
-├── config/
-│ ├── requirements.txt
-│ ├── .env.example
-│ └── configreadme.md
-├── data/
-│ └── produtos_agricolas.csv
-├── document/
-│ ├── documentai_project_document_fiap.md
-│ └── other/
-├── scripts/
-│ ├── readme.md
-│ └── [scripts auxiliares *.py]
-├── src/
-│ └── cap10_ml/
-│ └── [códigos auxiliares *.py]
-├── MuriloSalla_RM568041_fase3_cap10.ipynb
-└── README.md
+## 📁 Estrutura de Pastas
+
+.github/: arquivos de configuração específicos do GitHub.  
+assets/: prints e gráficos de evidências (EDA, análises estatísticas, modelos de ML).  
+config/: arquivos de configuração e ajustes do projeto (.env.example, requirements.txt, configreadme.md).  
+data/: bases utilizadas no projeto (ex.: produtos_agricolas.csv).  
+document/: documentação oficial do projeto (documentai_project_document_fiap.md).  
+document/other/: documentos auxiliares.  
+scripts/: scripts auxiliares de automação (make_dataset.py, run_eda.py, etc.).  
+src/: código-fonte principal da Fase 3 (cap10_ml/ com os módulos de ML).  
+MuriloSalla_RM568041_fase3_cap10.ipynb: notebook principal com a atividade do Capítulo 10.  
+README.md: guia geral do projeto (este arquivo).  
+
 
 ---
 
