@@ -3,8 +3,12 @@
 
 ## GitHub: https://github.com/murilosalla-blip/fiap-fase03-cap10-primeira-tecnica-ml
 
-**Aluno:** Murilo Salla  
-**RM:** 568041  
+* Grupo:
+* RM568500 - Elias da Silva de Souza
+* RM567816 - Julia Duarte de Carvalho
+* RM568041 - Murilo Salla
+* RM567895 - Vitório Stevanatto Compri Paciulo
+
 ## 👩‍🏫 Professores
 * Tutor(a): Ana Cristina dos Santos
 * Coordenador(a): André Godoi Chiovato
